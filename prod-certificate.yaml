@@ -17,6 +17,7 @@ spec:
     - client auth
   dnsNames:
     - "httpbin.alldigitalsrewards.com"
+    - "wp.alldigitalsrewards.com"
   issuerRef:
     name: letsencrypt-prod-cluster
     kind: ClusterIssuer
