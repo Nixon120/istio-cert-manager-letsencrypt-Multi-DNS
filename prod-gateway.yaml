@@ -12,7 +12,7 @@ spec:
       name: http
       protocol: HTTP
     hosts:
-    - "httpbin.travelsbuds.com"
+    - "travelsbuds.com"
   - port:
       number: 443
       name: https
