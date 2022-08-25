@@ -12,7 +12,7 @@ spec:
       name: http
       protocol: HTTP
     hosts:
-    - "httpbin.alldigitalsrewards.com"
+    - "httpbin.travelsbuds.com"
   - port:
       number: 443
       name: https
@@ -21,5 +21,5 @@ spec:
       mode: SIMPLE
       credentialName: deanpetrusek-domain-cert-prod
     hosts:
-    - "httpbin.alldigitalsrewards.com"
-    - "wp.alldigitalsrewards.com"
+    - "httpbin.travelsbuds.com"
+    - "wp.travelsbuds.com"
