@@ -22,4 +22,4 @@ spec:
       credentialName: deanpetrusek-domain-cert-prod
     hosts:
     - "httpbin.travelsbuds.com"
-    - "wp.travelsbuds.com"
+    - "wp.restauhire.com"
