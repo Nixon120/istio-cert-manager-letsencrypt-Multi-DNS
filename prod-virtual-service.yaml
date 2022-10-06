@@ -5,7 +5,7 @@ metadata:
   namespace: default
 spec:
   hosts:
-  - "httpbin.travelsbuds.com"
+  - "httpbin.restauhire.com"
   gateways:
   - istio-system/gateway-prod
   http:
@@ -26,7 +26,7 @@ metadata:
   namespace: default
 spec:
   hosts:
-  - "wp.travelsbuds.com"
+  - "wp.restauhire.com"
   gateways:
   - istio-system/gateway-prod
   http:
