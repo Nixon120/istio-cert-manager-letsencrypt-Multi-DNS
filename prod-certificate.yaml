@@ -16,8 +16,8 @@ spec:
     - server auth
     - client auth
   dnsNames:
-    - "httpbin.travelsbuds.com"
-    - "wp.travelsbuds.com"
+    - "httpbin.restauhire.com"
+    - "wp.restauhire.com"
   issuerRef:
     name: letsencrypt-prod-cluster
     kind: ClusterIssuer
